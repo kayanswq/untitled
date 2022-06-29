@@ -12,5 +12,6 @@ public class App
         System.out.println("q1231");
         System.out.println("1eqw1231");
         System.out.println("master change");
+        System.out.println("hot fix change");
     }
 }
